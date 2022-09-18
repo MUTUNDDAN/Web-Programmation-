@@ -1,0 +1,67 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    background-color:white;
+}
+
+
+
+
+header
+{
+    background:green 50% 50%;
+    background-size: cover;
+    height: 7vh;
+    border-radius:10px 10px 10px 10px ;
+    margin-bottom: 40px;
+    color: aliceblue;
+}
+main
+{
+    width: 110%;
+    margin: 0px;
+    text-align: left;
+    background: white;
+    border: 1px blue;
+}
+main h1
+{
+    color:aliceblue;
+    font-size: 25px;
+    font-family: sans-serif;
+    background-color: green;
+    padding: 10px;
+    border-radius:0px 0px 10px 10px ;
+}
+.Horaire
+{
+    border: 2px white solid;
+    margin: 0px 5px;
+
+}
+h2
+{
+    color:green;
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 2px 5px;
+}
+table
+{
+    width: 100%;
+    display: none;
+}
+td, tr
+{
+    border: 2px green solid;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a
+{
+    color: red;
+    display: none;
+    
+}

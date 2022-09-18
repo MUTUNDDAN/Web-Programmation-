@@ -1,0 +1,39 @@
+body
+{
+    display :flex ;
+    justify-content:center
+}
+
+
+ #Carrousel
+ {
+     Width :640px ;
+     overflowflow:auto;
+ }
+.image
+{
+    display: flex;
+    animation-duration ;
+    animation-name:mesimages ;
+    animation-interaction-count:infine;
+    @keyframes mesimages;
+    0%{
+    	
+    Stransform:translate(0)
+    
+    25% {
+    	Stransform:translate (-640px);
+        {
+    50% {
+    	 Stransform:translate (-1280px);
+    }
+    75%{ 
+    Stransform:translate (-1920px);
+ }
+ 
+ 	100%{
+ 		 Stransform:translate (0);
+ }
+ 
+ 	
+ }
